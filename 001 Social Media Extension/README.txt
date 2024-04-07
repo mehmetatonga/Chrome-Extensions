@@ -1,2 +1,1 @@
-
-![MasterHead](https://careerswithstem.com.au/wp-content/uploads/2017/07/Highlight-banner_8stages.jpg)
+![screenshot](https://github.com/mehmetatonga/Chrome-Extensions/assets/74717710/cad7cdce-257f-462c-9206-caedee693ca1)
