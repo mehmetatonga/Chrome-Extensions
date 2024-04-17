@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "QR Code Generator",
+    "description": "QR Code Generator",
+    "version": "1.0",
+    "icons": {
+      "16": "icon_16.png",
+      "32": "icon_32.png",
+      "48": "icon_48.png",
+      "128": "icon_128.png"
+    },
+    "action": {
+      "default_icon": "icon_16.png",
+      "default_popup": "popup.html"
+    }
+  
+  }
